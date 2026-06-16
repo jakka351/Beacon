@@ -2,6 +2,7 @@
 Bluetooth Low Energy Utility - Windows Application
 
 <img width="1915" height="1039" alt="image" src="https://github.com/user-attachments/assets/2ffa0f8e-1a63-46b6-aae4-2980bf23a539" />
+  
 An open-source Windows Forms (.NET Framework **4.8.1**) engineering tool for **sniffing, reading,
 writing and emulating Bluetooth Low Energy** devices. It uses the native Windows 10/11 Bluetooth
 stack (WinRT) for the built-in/USB radio, and an **HCI-over-serial (H4)** transport for external
